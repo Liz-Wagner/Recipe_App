@@ -70,7 +70,7 @@ thead:nth-child() {
 }
 
 /* Column size for tbody */
-tbody:nth-child(odd) {
+tbody:nth-child(even) {
   background-color: antiquewhite;
 }
 
